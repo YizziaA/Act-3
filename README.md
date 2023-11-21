@@ -5,34 +5,35 @@ tabla relacional
 ## tabla mascota
 ## tala producto
 
-#### inicio
-![image](https://github.com/YizziaA/Act-3/assets/143548810/9236b648-9d8d-44b2-93ec-7303f52b56d8)
+## inicio
+![image](https://github.com/YizziaA/Act-3/assets/143548810/6e656325-1b99-45b5-8e89-88e360d0f914)
+
 #### tabla productos
-![image](https://github.com/YizziaA/Act-3/assets/143548810/2a09548b-d685-4695-aac9-4716b1101500)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/4d9d6670-095a-4eb7-a390-da735d257b2d)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/e1532d52-cac3-4164-b141-b64f2b274689)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/5d5b9cd4-7318-4839-b643-811ebd9d9bf7)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/ad12ec08-a5e2-4eb0-8692-2df6fe4b5ffa)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/915e65d6-fd2f-405b-81d4-0f934c1e43d5)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/3c2a1515-b179-4ef1-97da-6ac8561e4df7)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/64f004f1-0f1b-46f8-9072-a8e9629c8dce)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/e7dcdbe0-dd8d-49ef-b240-c2429039c14a)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/8c11ff8b-04a0-4046-8084-68da30f1f5ae)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/31f852a9-f847-455c-9a6d-35e4b9ec98a7)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/118334e1-1c08-420b-87cb-61099c793a34)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/ed8bc6f5-760e-4a8d-a7f6-f6503e17bbd5)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/e56fc960-5e57-43dd-a713-10cb65a07bcc)
+
 
 #### tabla mascota
-![image](https://github.com/YizziaA/Act-3/assets/143548810/d3fa191d-0309-4620-b4a3-a2fe654fde24)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/c69dffa9-ad0a-4b3b-a6af-76e62dcc6550)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/287ad02c-4011-4e67-a96b-3edb330d542c)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/fa2dcc73-9432-40f8-996d-6efc007954fa)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/e12a9cbb-a1c7-471a-844d-9e5f09521579)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/e6813cf2-f005-476f-804f-aeed2930f9c6)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/87227b8e-b747-4fd4-b374-0cc031f62803)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/99711b8c-c612-4e6b-a440-270f773766a5)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/ec286f59-12e0-4fa4-8cc0-59bde94cd664)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/354f7a87-21cf-447e-821f-e1eb8367e561)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/a6f7f8f0-51b6-4d6e-aa23-64aee4557ee8)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/850afc19-e7ca-410a-9b0a-fb86c08936d6)
 
 #### tabla receta
-![image](https://github.com/YizziaA/Act-3/assets/143548810/379f98f4-f7e6-4efe-b359-e18524a32c17)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/cf0a2ef9-e451-4d01-b46c-7c08a1e7d3f5)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/abe08382-2cf1-4b25-a0d9-fed77aa3e2e8)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/59dc7ebc-fc56-4f2d-975c-d6b3a45a199d)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/e114074d-dc35-4e7a-9788-240afe4da92f)
-![image](https://github.com/YizziaA/Act-3/assets/143548810/307677b7-14cc-4eb4-8029-e2dad72b7387)
-
-
-
+![image](https://github.com/YizziaA/Act-3/assets/143548810/9215baab-bd32-48fc-988f-8342941290e1)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/387cba56-2b32-4b68-bc71-bed0972c0cd3)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/98584d84-78b9-4bd1-aa88-d553ce0185fc)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/6c2c984f-2027-4d7a-8e9e-97439708f13e)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/303e2d1e-236c-4d08-a4cf-c344ef421ddc)
+![image](https://github.com/YizziaA/Act-3/assets/143548810/cb879c14-6e16-4bf2-be7d-416fd0c0b26d)
 
 
 
